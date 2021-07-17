@@ -16,7 +16,7 @@ h2 {
 	font-weight: bold;
 	margin: 15px 0 10px 0;
 	padding: 0 0 3px 0;
-	width: 700px;
+	width: 710px;
 }
 h3 {
 	float: left;
@@ -25,6 +25,14 @@ h3 {
 	margin: 0 0 5px 0;
 	padding: 0;
 	width: 446px;
+}
+h4 {
+	float: left;
+	font: 75% verdana, arial, helvetica, sans-serif;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+	padding: 0;
+	width: 580px;
 }
 li {
 	font-size: 70%;
@@ -50,13 +58,16 @@ body div ul {
 #bio_left {
 	font-size: 75%;
 	float: left;
-	width: 350px;
+	padding: 0 0 3px 5px;
+	width: 615px;
 }
 #bio_right {
+	border-left: 2px solid #666;
 	font-size: 75%;
 	float: left;
-	text-align: right;
-	width: 350px;
+	text-align: left;
+	padding: 0 0 3px 5px;
+	width: 80px;
 }
 .company {
 	clear: both;
@@ -72,6 +83,20 @@ body div ul {
 	padding-top: 2px;
 	width: 125px;
 }
+.pub {
+	clear: both;
+	width: 700px;
+}
+.pub_data {
+	float: left;
+	width: 575px;
+}
+.pub_journal_name {
+	font-style: italic;
+	clear: both;
+	margin: 0 0 5px 0;
+	padding: 0;
+}
 .job {
 	clear: both;
 	width: 700px;
@@ -84,7 +109,7 @@ body div ul {
 	clear: right;
 	float: left;
 	text-align: right;
-	width: 125px;
+	width: 129px;
 }
 .position {
 	font-style: italic;
