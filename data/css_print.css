@@ -1,5 +1,6 @@
 body {
-	margin: 0px;
+	margin: 10px;
+	margin-bottom: 30px;
 }
 p, td, span, li, a { 
 	font-family: verdana, arial, helvetica, sans-serif; 
@@ -24,9 +25,17 @@ h3 {
 	margin: 0 0 2px 0;
 	padding: 0;
 }
+h4 {
+	float: left;
+	font: 75% verdana, arial, helvetica, sans-serif;
+	font-weight: bold;
+	margin: 0 0 5px 0;
+	padding: 0;
+	width: 580px;
+}
 li {
-	font-size: 10pt;
-	margin: 0 0 3px 5%;
+	font-size: 70%;
+	margin: 0 0 3px 20px;
 	padding: 0;
 }
 p {
@@ -43,15 +52,17 @@ body div ul {
 	padding: 0;
 }
 #bio_left {
-	font-size: 11pt;
+	font-size: 75%;
 	float: left;
+	padding: 0 0 3px 5px;
 	width: 50%;
 }
 #bio_right {
-	font-size: 11pt;
-	float: left;
-	text-align: right;
-	width: 50%;
+	border-left: 2px solid #666;
+	font-size: 75%;
+	float: right;
+	text-align: left;
+	padding: 0 0 3px 5px;
 }
 .company {
 	clear: both;
@@ -66,6 +77,19 @@ body div ul {
 	float: left;
 	padding-top: 2px;
 	width: 20%;
+}
+.pub {
+	clear: both;
+}
+.pub_data {
+	float: left;
+	width: 575px;
+}
+.pub_journal_name {
+	font-style: italic;
+	clear: both;
+	margin: 0 0 5px 0;
+	padding: 0;
 }
 .job {
 	clear: both;
