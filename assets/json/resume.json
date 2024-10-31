@@ -26,11 +26,9 @@
     {
       "name": "FE FALAT",
       "position": "Site Civil Engineer",
-      "url": "https://fefalat.com",
       "startDate": "2024-07-25",
       "endDate": "",
       "summary": "Cost and Income Specialist, focusing on checking and evaluating the invoices of site subcontractors. Geotechnical Engineer and QC Inspector.",
-      "highlights": ["Relativity"]
     },
     {
       "name": "ASAKAV",
@@ -39,7 +37,6 @@
       "startDate": "2022-11-11",
       "endDate": "2024-07-22",
       "summary": "Geotechnical design engineer, On-Site supervisor, and soil improvement expert. Geotechnical laboratory expert.",
-      "highlights": ["Relativity"]
     }
   ],
   "education": [
@@ -63,7 +60,7 @@
       "startDate": "2015-09-20",
       "endDate": "2019-07-06",
       "score": "3.65/4.0",
-      "courses": ["Structural Analysis", "Mechanics of Materials", "Design of Concrete Structures I & II", "Design of Steel Structures I & II"]
+      "courses": ["Structural Analysis", "Mechanics of Materials", "Design of Steel Structures I & II", "Design of Concrete Structures I & II"]
     }
   ],
   "publications": [
@@ -82,12 +79,22 @@
       "summary": "Developed a new polynomial regression model to correlate shear wave velocity (Vs) with cone penetration test (CPT) parameters, including cone tip resistance, sleeve friction, and vertical effective stress, using a global dataset, and demonstrated its improved reliability over existing CPT-Vs correlations."
     }
   ],
+  "projects": [
+    {
+      "name": "Master of Science thesis",
+      "summary": "Numerical modeling of caisson foundation for Offshore Wind Turbines, Sited on a liquefiable soil.",
+      "highlights": ["Offshore Wind Turbines", "Soil Liquefaction", "OpenSees"],
+      "startDate": "2021-06-22",
+      "endDate": "2022-10-10",
+      "url": "http://dx.doi.org/10.13140/RG.2.2.28796.92805"
+    }
+  ],
   "skills": [
     {
       "name": "Structural Analysis & Design",
       "level": "Master",
       "icon": "fa-solid fa-clipboard-check",
-      "keywords": ["CSI ETABS", "CSI SAFE", "CSI SAP2000", "OpenSees", "AutoCAD"]
+      "keywords": ["CSI SAP2000", "CSI SAFE", "CSI ETABS", "OpenSees", "AutoCAD"]
     },
     {
       "name": "Ground Stabilization",
@@ -104,29 +111,19 @@
         "Numerical (FEM) Simulation",
         "Slope Stability and Deep Excavations",
         "Offshore Geotechnics and OWT Foundations",
-        "Liquefaction Lateral Spreading and Site Effects",
-        "Soil Dynamics and Geotechnical/Earthquake Engineering"
+        "Liquefaction Lateral Spreading & Site Effects",
+        "Soil Dynamics & Geotech./Earthquake Engineering"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Master of Science thesis",
-      "summary": "Numerical modeling of caisson foundation for Offshore Wind Turbines, Sited on a liquefiable soil.",
-      "highlights": ["Offshore Wind Turbines", "Soil Liquefaction", "OpenSees"],
-      "startDate": "2021-06-22",
-      "endDate": "2022-10-10",
-      "url": "http://dx.doi.org/10.13140/RG.2.2.28796.92805"
     }
   ],
   "languages": [
     {
-      "language": "Persian",
-      "fluency": "Native speaker"
+      "language": "English",
+      "fluency": "Professional proficiency"
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Persian",
+      "fluency": "Native speaker"
     }
   ],
   "references": [
@@ -134,6 +131,11 @@
       "name": "Professor M. H. Baziar",
       "icon": "fa-solid fa-hashtag",
       "reference": "Master of Science thesis advisor at Iran University of Science and Technology."
+    },
+    {
+      "name": "Asst. Prof B. Nadi",
+      "icon": "fa-solid fa-hashtag",
+      "reference": "Instructor of deep excavation stabilization in urban areas at IAUN university."
     }
   ]
 }
