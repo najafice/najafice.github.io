@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Curriculum vitae
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: najafi_cv.pdf
