@@ -52,7 +52,7 @@
       "startDate": "2019-09-20",
       "endDate": "2022-10-10",
       "score": "3.77/4.0",
-      "courses": ["Soil Dynamics","Seismic Geotechnic","Ground Improvement","Advanced Foundation Design"]
+      "courses": ["Soil Dynamics", "Seismic Geotechnic", "Ground Improvement", "Advanced Foundation Design"]
     },
     {
       "institution": "Islamic Azad University, Najafabad Branch",
@@ -63,7 +63,7 @@
       "startDate": "2015-09-20",
       "endDate": "2019-07-06",
       "score": "3.65/4.0",
-      "courses": ["Structural Analysis","Mechanics of Materials","Design of Concrete Structures I & II","Design of Steel Structures I & II"]
+      "courses": ["Structural Analysis", "Mechanics of Materials", "Design of Concrete Structures I & II", "Design of Steel Structures I & II"]
     }
   ],
   "publications": [
@@ -87,25 +87,13 @@
       "name": "Structural Analysis & Design",
       "level": "Master",
       "icon": "fa-solid fa-clipboard-check",
-      "keywords": [
-        "CSI ETABS",
-        "CSI SAFE",
-        "CSI SAP2000",
-        "OpenSees",
-        "AutoCAD",
-      ]
-    }, 
+      "keywords": ["CSI ETABS", "CSI SAFE", "CSI SAP2000", "OpenSees", "AutoCAD"]
+    },
     {
       "name": "Ground Stabilization",
       "level": "Master",
       "icon": "fa-solid fa-clipboard-check",
-      "keywords": [
-        "FLAC 2D",
-        "PLAXIS 3D",
-        "DEEPSOIL",
-        "GeoStudio",
-        "Rhinoceros 3D",
-      ]
+      "keywords": ["FLAC 2D", "PLAXIS 3D", "DEEPSOIL", "GeoStudio", "Rhinoceros 3D"]
     }
   ],
   "interests": [
@@ -117,11 +105,11 @@
         "Slope Stability and Deep Excavations",
         "Offshore Geotechnics and OWT Foundations",
         "Liquefaction Lateral Spreading and Site Effects",
-        "Soil Dynamics and Geotechnical/Earthquake Engineering",
+        "Soil Dynamics and Geotechnical/Earthquake Engineering"
       ]
     }
   ],
-    "projects": [
+  "projects": [
     {
       "name": "Master of Science thesis",
       "summary": "Numerical modeling of caisson foundation for Offshore Wind Turbines, Sited on a liquefiable soil.",
@@ -131,14 +119,14 @@
       "url": "http://dx.doi.org/10.13140/RG.2.2.28796.92805"
     }
   ],
-     "languages": [
+  "languages": [
     {
       "language": "Persian",
-      "fluency": "Native speaker",
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent"
     }
   ],
   "references": [
