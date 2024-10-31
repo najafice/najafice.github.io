@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Curriculum vitae
 nav: true
 nav_order: 5
 cv_pdf: najafi_cv.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Last update: 10/31/2024
 toc:
   sidebar: left
 ---
