@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Hello World!
-date: 2024-11-17 13:00:00-0400
-inline: false
+date: 2024-11-17 15:00:00-0400
+inline: true
 related_posts: false
 ---
 
