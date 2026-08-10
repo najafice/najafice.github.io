@@ -2,18 +2,10 @@
   "basics": {
     "name": "Abolfazl Najafi",
     "label": "Geotechnical Engineer",
-    "image": "",
+    "image": "prof_pic.jpg",
     "email": "abolfazlbox@gmail.com",
-    "phone": "",
     "url": "https://www.linkedin.com/in/abolfazlnajafi/",
     "summary": "Civil and Geotechnical engineer with two years of experience in the design and supervising of various geotechnical and structural projects.",
-    "location": {
-      "address": "",
-      "postalCode": "84751",
-      "city": "Chermahin",
-      "countryCode": "IR",
-      "region": "Isfahan"
-    },
     "profiles": [
       {
         "network": "Twitter",
@@ -28,7 +20,7 @@
       "position": "Site Civil Engineer",
       "startDate": "2024-07-25",
       "endDate": "",
-      "summary": "Cost and Income Specialist, focusing on checking and evaluating the invoices of site subcontractors. Geotechnical Engineer and QC Inspector."
+      "summary": "Civil technical office engineer. Geotechnical Supervisor."
     },
     {
       "name": "ASAKAV",
@@ -122,8 +114,8 @@
       "fluency": "Professional proficiency"
     },
     {
-      "language": "Persian",
-      "fluency": "Native speaker"
+      "language": "German",
+      "fluency": "Elementary proficiency"
     }
   ],
   "references": [
