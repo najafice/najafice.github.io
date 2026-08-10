@@ -1,221 +1,141 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Abolfazl Najafi",
+    "label": "Geotechnical Engineer",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "abolfazlbox@gmail.com",
+    "phone": "",
+    "url": "https://www.linkedin.com/in/abolfazlnajafi/",
+    "summary": "Civil and Geotechnical engineer with two years of experience in the design and supervising of various geotechnical and structural projects.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "84751",
+      "city": "Chermahin",
+      "countryCode": "IR",
+      "region": "Isfahan"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "najafilog",
+        "url": "https://twitter.com/najafilog"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "FE FALAT",
+      "position": "Site Civil Engineer",
+      "startDate": "2024-07-25",
+      "endDate": "",
+      "summary": "Cost and Income Specialist, focusing on checking and evaluating the invoices of site subcontractors. Geotechnical Engineer and QC Inspector."
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "ASAKAV",
+      "position": "Geotechnical Design Engineer",
+      "url": "https://asa-eng.com",
+      "startDate": "2022-11-11",
+      "endDate": "2024-07-22",
+      "summary": "Geotechnical design engineer, On-Site supervisor, and soil improvement expert. Geotechnical laboratory expert."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Iran University of Science and Technology",
+      "location": "Tehran, Iran",
+      "url": "https://www.iust.ac.ir",
+      "area": "Geotechnical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2019-09-20",
+      "endDate": "2022-10-10",
+      "score": "3.77/4.0",
+      "courses": ["Soil Dynamics", "Seismic Geotechnic", "Ground Improvement", "Advanced Foundation Design"]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "institution": "Islamic Azad University, Najafabad Branch",
+      "location": "Isfahan, Iran",
+      "url": "https://www.iaun.iau.ir",
+      "area": "Civil Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2015-09-20",
+      "endDate": "2019-07-06",
+      "score": "3.65/4.0",
+      "courses": ["Structural Analysis", "Mechanics of Materials", "Design of Steel Structures I & II", "Design of Concrete Structures I & II"]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Modelling Initial Elastic Modulus of Sand-EPS Mixtures Using Evolutionary Polynomial Regression",
+      "publisher": "39th National Congress and 4th International Congress of Earth Sciences",
+      "releaseDate": "2021-02-22",
+      "url": "https://en.civilica.com/doc/1202479/",
+      "summary": "Investigated the use of expanded polystyrene (EPS) in soil stabilization, developing an EPR-based model to predict the initial elastic modulus of sand-EPS composites through triaxial compression tests, and conducted sensitivity and parametric analyses to understand the impact of confining pressure and EPS content on compressibility behavior."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
+      "name": "A polynomial model for predicting shear wave velocity from cone penetration test data",
+      "publisher": "3rd International Conference on Civil Engineering, Architecture, and Urban Management in Iran",
+      "releaseDate": "2020-04-01",
+      "url": "https://en.civilica.com/doc/1119039/",
+      "summary": "Developed a new polynomial regression model to correlate shear wave velocity (Vs) with cone penetration test (CPT) parameters, including cone tip resistance, sleeve friction, and vertical effective stress, using a global dataset, and demonstrated its improved reliability over existing CPT-Vs correlations."
+    }
+  ],
+  "projects": [
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Master of Science thesis",
+      "summary": "Numerical modeling of caisson foundation for Offshore Wind Turbines, Sited on a liquefiable soil.",
+      "highlights": ["Offshore Wind Turbines", "Soil Liquefaction", "OpenSees"],
+      "startDate": "2021-06-22",
+      "endDate": "2022-10-10",
+      "url": "http://dx.doi.org/10.13140/RG.2.2.28796.92805"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Structural Analysis & Design",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-clipboard-check",
+      "keywords": ["CSI SAP2000", "CSI SAFE", "CSI ETABS", "OpenSees", "AutoCAD"]
+    },
+    {
+      "name": "Ground Stabilization",
+      "level": "Master",
+      "icon": "fa-solid fa-clipboard-check",
+      "keywords": ["FLAC 2D", "PLAXIS 3D", "DEEPSOIL", "GeoStudio", "Rhinoceros 3D"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "icon": "fa-solid fa-thumbtack",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Numerical (FEM) Simulation",
+        "Slope Stability and Deep Excavations",
+        "Offshore Geotechnics and OWT Foundations",
+        "Liquefaction Lateral Spreading & Site Effects",
+        "Soil Dynamics & Geotech./Earthquake Engineering"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "English",
+      "fluency": "Professional proficiency"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "language": "Persian",
+      "fluency": "Native speaker"
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Professor M. H. Baziar",
+      "icon": "fa-solid fa-hashtag",
+      "reference": "Master of Science thesis advisor at Iran University of Science and Technology."
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Asst. Prof B. Nadi",
+      "icon": "fa-solid fa-hashtag",
+      "reference": "Instructor of deep excavation stabilization in urban areas at IAUN university."
     }
   ]
 }
