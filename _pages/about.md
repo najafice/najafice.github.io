@@ -1,5 +1,4 @@
 ---
-
 layout: about
 title: about
 permalink: /
@@ -14,7 +13,7 @@ more_info: > <p>Bandar Abbas, Iran</p>
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
----------------------------------------------------------------
+---
 
 My name is Abolfazl. I am a Civil and Geotechnical Engineer from Iran. I was born in [Isfahan](https://en.wikipedia.org/wiki/Isfahan) in 1997 and am currently working in the beautiful city of [Bandar Abbas](https://en.wikipedia.org/wiki/Bandar_Abbas), near the Persian Gulf.
 
