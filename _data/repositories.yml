@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - najafice/py-sandbox
   - najafice/cpp-programming
-  - najafice/CS-Soil-Mechanics
   - najafice/EPWPWriter
   - OpenSees/OpenSeesDocumentation
