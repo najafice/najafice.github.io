@@ -2,96 +2,124 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Abolfazl Najafi
+    - name: Position
+      value: Geotechnical Engineer
+    - name: Email
+      value: abolfazlbox@gmail.com
+    - name: LinkedIn
+      value: <a
+        href="https://www.linkedin.com/in/abolfazlnajafi/">linkedin.com/in/abolfazlnajafi</a>
+    - name: Summary
+      value: Civil and Geotechnical Engineer with four years of experience in
+        geotechnical and structural engineering, including design, site
+        supervision, soil improvement, and geotechnical laboratory work.
     - name: Languages
-      value: English, German
-
+      value: English (Professional proficiency), German (Elementary proficiency)
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science in Geotechnical Engineering
+      institution: <a href="https://www.iust.ac.ir">Iran University of Science and
+        Technology</a>, Tehran, Iran
+      year: 2019 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA: 3.77/4.0
+        - "Courses: Soil Dynamics, Seismic Geotechnics, Ground Improvement,
+          Advanced Foundation Design"
+    - title: Bachelor of Science in Civil Engineering
+      institution: <a href="https://www.iaun.iau.ir">Islamic Azad University,
+        Najafabad Branch</a>, Isfahan, Iran
+      year: 2015 - 2019
       description:
-        - Description 1.
-        - Description 2.
-
+        - GPA: 3.65/4.0
+        - "Courses: Structural Analysis, Mechanics of Materials, Design of Steel
+          Structures I & II, Design of Concrete Structures I & II"
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Site Civil Engineer
+      institution: FE FALAT
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Civil technical office engineer.
+        - Geotechnical supervisor.
+    - title: Geotechnical Design Engineer
+      institution: <a href="https://asa-eng.com">ASAKAV</a>
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        - Geotechnical design engineer.
+        - On-site supervisor.
+        - Soil improvement expert.
+        - Geotechnical laboratory expert.
+- title: Publications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
+    - title: <a href="https://en.civilica.com/doc/1202479/">Modelling Initial Elastic
+        Modulus of Sand-EPS Mixtures Using Evolutionary Polynomial
+        Regression</a>
+      year: 2021
+      description:
+        - 39th National Congress and 4th International Congress of Earth
+          Sciences.
+        - Investigated the use of expanded polystyrene (EPS) in soil
+          stabilization.
+        - Developed an EPR-based model to predict the initial elastic modulus of
+          sand-EPS composites through triaxial compression tests.
+        - Conducted sensitivity and parametric analyses to investigate the
+          effects of confining pressure and EPS content on compressibility
+          behavior.
+    - title: <a href="https://en.civilica.com/doc/1119039/">A polynomial model for
+        predicting shear wave velocity from cone penetration test data</a>
+      year: 2020
+      description:
+        - 3rd International Conference on Civil Engineering, Architecture, and
+          Urban Management in Iran.
+        - Developed a polynomial regression model correlating shear wave
+          velocity (Vs) with CPT parameters, including cone tip resistance,
+          sleeve friction, and vertical effective stress.
+        - Used a global dataset and demonstrated improved reliability compared
+          with existing CPT-Vs correlations.
+- title: Projects
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+    - title: Master of Science Thesis
+      year: 2021 - 2022
+      description:
+        - Numerical modeling of a caisson foundation for Offshore Wind Turbines
+          sited on liquefiable soil.
+        - "Highlights: Offshore Wind Turbines, Soil Liquefaction, OpenSees"
+        - <a href="http://dx.doi.org/10.13140/RG.2.2.28796.92805">View
+          project</a>
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Structural Analysis & Design
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - CSI SAP2000
+        - CSI SAFE
+        - CSI ETABS
+        - OpenSees
+        - AutoCAD
+    - title: Ground Stabilization
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+        - FLAC 2D
+        - PLAXIS 3D
+        - DEEPSOIL
+        - GeoStudio
+        - Rhinoceros 3D
+- title: Academic Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Numerical (FEM) Simulation
+    - Slope Stability and Deep Excavations
+    - Offshore Geotechnics and OWT Foundations
+    - Liquefaction, Lateral Spreading & Site Effects
+    - Soil Dynamics & Geotechnical/Earthquake Engineering
+- title: References
+  type: list
+  contents:
+    - <b>Professor M. H. Baziar</b> — Master of Science thesis advisor at Iran
+      University of Science and Technology.
+    - <b>Asst. Prof. B. Nadi</b> — Instructor of deep excavation stabilization
+      in urban areas at IAUN University.
