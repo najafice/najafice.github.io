@@ -22,8 +22,6 @@ My name is Abolfazl. I am a Civil and Geotechnical Engineer from Iran. I was bor
 
 I have over four years of professional experience in the design, analysis, and supervision of geotechnical and structural engineering projects. My work has involved a range of engineering challenges, with a particular focus on geotechnical engineering, numerical analysis, and the practical application of engineering principles in complex projects. I am experienced with technical software and programming tools including PLAXIS (2D and 3D), GeoStudio, ETABS, and Python (NumPy, pandas, Matplotlib, and [scikit-learn](https://scikit-learn.org/stable/).
 
-My academic and professional interests include soil-structure interaction (SSI), soil improvement, offshore geotechnics, numerical modeling, and the application of machine learning to natural hazard problems such as earthquakes and landslides. I am particularly interested in combining traditional engineering approaches with computational methods to develop more efficient and reliable solutions to complex geotechnical problems.
+My academic and professional interests include soil-structure interaction (SSI), soil improvement, offshore geotechnics, numerical modeling, and the application of machine learning to natural hazard problems such as earthquakes and landslides.
 
 Beyond engineering, I have a strong interest in financial markets and trading, particularly stocks and [indices](https://www.investing.com/indices). I enjoy studying market behavior, developing systematic approaches to trading, and exploring the intersection of data analysis, programming, and financial markets.
-
-Outside of work, I enjoy going to the gym, swimming, and hiking.
